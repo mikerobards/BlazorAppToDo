@@ -91,9 +91,19 @@ using BlazorAppToDo.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 12 "C:\Users\miker\Projects\BlazorAppToDo\Pages\Todo.razor"
+#line 15 "C:\Users\miker\Projects\BlazorAppToDo\Pages\Todo.razor"
        
     private List<TodoItem> todos = new();
+    private string newTodo;
+    private void AddTodo()
+    {
+        //Todo: Add the todo
+        if (!string.IsNullOrWhiteSpace(newTodo))
+        {
+            todos.Add(new TodoItem { Title = newTodo });
+            newTodo = string.Empty;
+        }
+    }
 
 #line default
 #line hidden
