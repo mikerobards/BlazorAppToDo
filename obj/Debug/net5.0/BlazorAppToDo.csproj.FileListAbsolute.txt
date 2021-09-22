@@ -56,3 +56,5 @@ C:\Users\miker\Projects\BlazorAppToDo\obj\Debug\net5.0\ref\BlazorAppToDo.dll
 C:\Users\miker\Projects\BlazorAppToDo\obj\Debug\net5.0\BlazorAppToDo.pdb
 C:\Users\miker\Projects\BlazorAppToDo\obj\Debug\net5.0\BlazorAppToDo.genruntimeconfig.cache
 C:\Users\miker\Projects\BlazorAppToDo\obj\Debug\net5.0\BlazorAppToDo.csproj.CopyComplete
+C:\Users\miker\Projects\BlazorAppToDo\obj\Debug\net5.0\RazorDeclaration\Pages\Todo.razor.g.cs
+C:\Users\miker\Projects\BlazorAppToDo\obj\Debug\net5.0\Razor\Pages\Todo.razor.g.cs
