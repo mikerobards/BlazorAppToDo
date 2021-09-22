@@ -91,7 +91,7 @@ using BlazorAppToDo.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 15 "C:\Users\miker\Projects\BlazorAppToDo\Pages\Todo.razor"
+#line 18 "C:\Users\miker\Projects\BlazorAppToDo\Pages\Todo.razor"
        
     private List<TodoItem> todos = new();
     private string newTodo;
